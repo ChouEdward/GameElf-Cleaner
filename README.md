@@ -37,14 +37,11 @@ Monitor your System<br>
 ● Check the usage of your CPU<br>
 ● Keep track of your RAM and internal storage space<br>
 ● Check out your battery levels and temperature<br>
-##Picture
-<br>
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)  
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg) 
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg) 
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg) 
 
-##Open source projects
+## Picture
+[Download](https://github.com/ChouEdward/GameElf-Cleaner/raw/master/gameelf%20cleaner.apk)
+
+## Open source projects
 * [ButterKnife](http://jakewharton.github.io/butterknife/)  
 * [changelog](https://github.com/gabrielemariotti/changeloglib)  
 * [smoothprogressbar](https://github.com/castorflex/SmoothProgressBar)  
