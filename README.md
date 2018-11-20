@@ -6,9 +6,9 @@ The makers of the world’s most popular PC and Mac cleaning software bring you 
 Remove junk, reclaim space, monitor your system and browse safely. Become the master of your own device with the ultimate cleaning app for your Android!
 
 ## Des
-Optimize and Clean
-● Speed up your phone and remove junk safely
-● Clean application cache, download folders, browser history, clipboard content and more
+Optimize and Clean<br>
+● Speed up your phone and remove junk safely<br>
+● Clean application cache, download folders, browser history, clipboard content and more<br>
 
 
 Reclaim Storage Space
