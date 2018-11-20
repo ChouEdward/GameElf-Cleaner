@@ -1,5 +1,5 @@
 # Gameelf Cleaner
-Memory Cleaner, Phone Booster, Optimizer。 <br> 
+Memory Cleaner, Phone Booster, Optimizer <br> 
 [Download](https://github.com/ChouEdward/GameElf-Cleaner/raw/master/gameelf%20cleaner.apk)  
 ## Update
 The makers of the world’s most popular PC and Mac cleaning software bring you CCleaner for Android.
