@@ -11,33 +11,33 @@ Optimize and Clean<br>
 ● Clean application cache, download folders, browser history, clipboard content and more<br>
 
 
-Reclaim Storage Space
-● Streamline your Android smartphone or tablet
-● Quickly and easily uninstall multiple unwanted applications
-● Free up valuable storage space on your device
-● Remove junk, such as obsolete and residual files
+Reclaim Storage Space<br>
+● Streamline your Android smartphone or tablet<br>
+● Quickly and easily uninstall multiple unwanted applications<br>
+● Free up valuable storage space on your device<br>
+● Remove junk, such as obsolete and residual files<br>
 
-Analyze Applications’ impact
-● Check which apps consume your data
-● Find apps draining your battery
-● Discover unused apps
+Analyze Applications’ impact<br>
+● Check which apps consume your data<br>
+● Find apps draining your battery<br>
+● Discover unused apps<br>
 
-Speed up your Device
-● New! Quickly stop running tasks with Task Killer
-● New! App Hibernation feature will stop apps from running in the background until you manually open them
+Speed up your Device<br>
+● New! Quickly stop running tasks with Task Killer<br>
+● New! App Hibernation feature will stop apps from running in the background until you manually open them<br>
 
-Easy to Use
-● Optimize your Android in just a few clicks
-● Simple, intuitive user interface which is easy to navigate
-● Fast, compact and efficient with low memory and CPU usage
-● New! App Stats feature lets you quickly determine the overall impact of individual apps on your device
+Easy to Use<br>
+● Optimize your Android in just a few clicks<br>
+● Simple, intuitive user interface which is easy to navigate<br>
+● Fast, compact and efficient with low memory and CPU usage<br>
+● New! App Stats feature lets you quickly determine the overall impact of individual apps on your device<br>
 
 
-Monitor your System
-● Check the usage of your CPU
-● Keep track of your RAM and internal storage space
-● Check out your battery levels and temperature
-##应用截图
+Monitor your System<br>
+● Check the usage of your CPU<br>
+● Keep track of your RAM and internal storage space<br>
+● Check out your battery levels and temperature<br>
+##Picture
 <br>
 ![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)  
 ![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg) 
