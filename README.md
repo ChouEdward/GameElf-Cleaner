@@ -1,6 +1,6 @@
 # gameelf cleaner
 一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。 <br> 
-[点击下载最新版本](http://www.pgyer.com/superclean)  
+[点击下载最新版本](https://github.com/ChouEdward/GameElf-Cleaner/raw/master/gameelf%20cleaner.apk)  
 ## 说明
 前一段时间买了一个android 手机，发现竟然没有一键所清理有进程功能!
 就下载了市面上的一些一键清理软件。但是使用起来都不是特别爽。
